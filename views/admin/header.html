@@ -181,7 +181,7 @@ desired effect
                         <ul class="dropdown-menu">
                             <!-- The user image in the menu -->
                             <li class="user-header">
-                                <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                <!--<img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">-->
 
                                 <p>
                                     Alexander Pierce - Web Developer
@@ -256,8 +256,8 @@ desired effect
             <ul class="sidebar-menu">
                 <li class="header">HEADER</li>
                 <!-- Optionally, you can add icons to the links -->
-                <li class="active"><a href="#"><i class="fa fa-link"></i> <span>Link</span></a></li>
-                <li><a href="#"><i class="fa fa-link"></i> <span>Another Link</span></a></li>
+                <li><a href="/admin/users"><i class="fa fa-user"></i> <span>Usuários</span></a></li>
+                <li><a href="/admin/categories"><i class="fa fa-link"></i> <span>Categorias</span></a></li>
                 <li class="treeview">
                     <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span>
                         <span class="pull-right-container">
